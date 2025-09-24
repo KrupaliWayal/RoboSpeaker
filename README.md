@@ -28,7 +28,7 @@ Install pywin32 by running:
 
 RoboSpeaker/
 
-│-- robospeaker.py   # Main program file
+│-- main.py   # Main program file
 
 │-- README.md        # Project documentation
 
@@ -41,7 +41,7 @@ RoboSpeaker/
 
 3.Run the script:
 
-    python robospeaker.py
+    python main.py
 
 4.Type any sentence, and Robo Speaker will speak it out.
 
